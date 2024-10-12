@@ -1,8 +1,8 @@
-# athlete-keep-hydrated
+# ATHLETE-KEEP-HYFRATED
 
 ## Project Overview
 
-Welcome to the **athlete-keep-hydrated** project! The mission of this initiative is to enhance the hydration experience for athletes while running. This project encourages innovative thinking and aims to find a non-digital solution to this challenge.
+Welcome to the **athlete-keep-hydrated** my FIRST UX project! The mission of this initiative is to enhance the hydration experience for athletes while running. This project encourages innovative thinking and aims to find a non-digital solution to this challenge.
 
 ## Objectives
 
@@ -19,7 +19,7 @@ Welcome to the **athlete-keep-hydrated** project! The mission of this initiative
 
 ## Deliverables
 
-1. **Interview_Insights Document**: A PDF containing insights gathered from user interviews.
+1. **Insights Document**: A PDF containing insights gathered from user interviews.
 2. **Analytics Document**: A PDF summarizing key figures or insights from relevant articles.
 3. **User Persona**: A PDF document detailing a user persona created from interview data.
 4. **User Journey**: A Figma file mapping the user journey of the persona.
@@ -29,7 +29,15 @@ Welcome to the **athlete-keep-hydrated** project! The mission of this initiative
 
 ## Instructions
 
-1. **Interviews**: Carefully read the provided interview scripts and extract insights.
+1. **Interviews**: Carefully read the provided interview scripts and extract insights:
+   - [Interview Script - Anaelle](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-anaelle.md)
+   - [Interview Script - Antoine](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-antoine.md)
+   - [Interview Script - Guillaume](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-guillaume.md)
+   - [Interview Script - Guillemette](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-guillemette.md)
+   - [Interview Script - Joe](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-joe.md)
+   - [Interview Script - Nathan](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-nathan.md)
+   - [Interview Script - William](https://learn.zone01kisumu.ke/git/root/public/src/branch/master/subjects/user-experience/piscine-ux/athlete-keep-hydrated/user-interviews/interview-script-william.md)
+
 2. **Documentation**: Create clear, concise PDFs and Figma files, ensuring easy readability.
 3. **Problem Focus**: Develop a problem statement centered on hydration challenges.
 4. **Ideation Session**: Conduct an ideation session with peers and document the process.
@@ -37,10 +45,15 @@ Welcome to the **athlete-keep-hydrated** project! The mission of this initiative
 
 ## Resources
 
-- Articles on hydration and athletic performance.
-- Templates for personas, user journeys, and ideation sessions.
+### Articles on Hydration
+
+1. [The Effects of Hydration on Athletic Performance](https://sportscardiologybc.org/the-effects-of-hydration-on-athletic-performance/)
+2. [Dehydration and Its Effects on Performance - Human Kinetics](https://us.humankinetics.com/blogs/excerpt/dehydration-and-its-effects-on-performance)
+3. [Accuracy of Urine Color to Detect Equal to or Greater Than 2% Body Mass Loss in Men - Journal of Athletic Training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4741257/)
+4. [Fluid Replacement for the Physically Active - Journal of Athletic Training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5634236/)
+5. [The Importance of Hydration - Harvard School of Public Health](https://www.hsph.harvard.edu/news/hsph-in-the-news/the-importance-of-hydration/)
+6. [Fluids and Hydration in Prolonged Endurance Performance - PubMed](https://pubmed.ncbi.nlm.nih.gov/15212747/)
 
 ## Conclusion
 
 By following the structured approach outlined in this README, participants can contribute to a meaningful project that aims to improve the hydration experience for athletes. Let's be creative and think outside the box!
-
